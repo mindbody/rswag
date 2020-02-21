@@ -6,3 +6,5 @@
 **/*/node_modules
 *.swp
 Gemfile.lock
+swagger-ui-bundle.js
+swagger-ui-standalone-preset.js
